@@ -1,4 +1,4 @@
-## Cigdem Arslan – Frontend Developer
+## Cigdem Arslan – UI/UX & FullStack Developer
 
 👋 Hello! I'm a frontend developer with experience in building responsive, scalable, and accessible web applications using modern JavaScript frameworks like React.
 
