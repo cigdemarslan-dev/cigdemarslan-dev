@@ -1,16 +1,32 @@
-## Hi there 👋
+## Cigdem Arslan – Frontend Developer
 
-<!--
-**cigdemarslan-dev/cigdemarslan-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hello! I'm a frontend developer with experience in building responsive, scalable, and accessible web applications using modern JavaScript frameworks like React.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Services Offered
+- Frontend development with React and JavaScript
+- UI/UX implementation and optimization
+- REST API integration and web performance tuning
+
+---
+
+## Business Details
+
+- **Full Name:** Cigdem Arslan  
+- **Email:** cigdemarslan93@outlook.com  
+- **Address:**  
+  Bld. 105, Appt. 10  
+  Rua Sargento Sampaio Street  
+  Avai, SP 16680-000  
+  Brazil  
+- **GitHub Profile:** [https://github.com/cigdemarslan-dev](https://github.com/cigdemarslan-dev)
+
+---
+
+## 📷 Verification Statement
+
+This GitHub profile and repository are maintained by Cigdem Arslan.  
+The contact information and address above are accurate and belong to me.  
+
+---
